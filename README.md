@@ -10,4 +10,4 @@ The hyperparameter search is performed for lambda in the range from 1e-3 to 1e7,
 
 <img src="SVM.png" alt="drawing" width="600"/>
 
-The coutnerexample exploits the fact that optimizing hinge-loss is not the same as optimizing accuracy (as discussed in the Lecture). Therefore, a single outlier far from the origin can have a more significant impact on the loss than multiple samples near the origin. 
+The counterexample exploits the fact that optimizing hinge-loss is not the same as optimizing accuracy (as discussed in Lecture 4). Therefore, a single outlier far from the origin can have a more significant impact on the loss than multiple samples near the origin. 
